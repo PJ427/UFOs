@@ -23,8 +23,7 @@
 
 ## Summary:
 
-#### The website works very well.  Typing in a filter will produce quick results that will allow the user to view the requested summary to the right of the search area.  A drawback to the site is that it only allows one filter at a time.  This could be very frustrating to the user if they wanted to 
-narrow their choices.
+#### The website works very well.  Typing in a filter will produce quick results that will allow the user to view the requested summary to the right of the search area.  A drawback to the site is that it only allows one filter at a time.  This could be very frustrating to the user if they wanted to narrow their choices.
 
 #### Future upgrades or additions to the site could be:
 
