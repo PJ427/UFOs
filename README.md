@@ -17,6 +17,8 @@
 <img src="static/images/filter_search.PNG" />
 </p>
 
+##### Note: You can only select one filter at a time and you must clear the previous filter.
+
 ![](static/images/city_search.PNG)
 
 ## Summary:
@@ -27,6 +29,6 @@ narrow their choices.
 
 #### Future upgrades or additions to the site could be:
 
-    *1. Allowing selection of more than one filter.  This would permit refining the requested data.*
-    *2. Clearing of previous filters automatcially.  Currently, you have to remove the filter yourself, adding code to remove the data 
-    could be extremely useful and beneficial.*
+    1. Allowing selection of more than one filter.  This would permit refining the requested data.
+    2. Clearing of previous filters automatcially.  Currently, you have to remove the filter yourself, adding code to remove the data 
+    could be extremely useful and beneficial.
