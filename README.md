@@ -7,11 +7,13 @@ We are to provide a more in-depth analysis of UFO sightings by allowing users to
 
 ## Results:
 
+The web page is very user-friendly.  Once navigating to the site, a user simply scrolls down to see **five** Filter Search options.
+
 ![site](static/images/site.PNG)
 
-The web page is very user-friendly.  Once navigating to the site, a user simply scrolls down to see **five** Filter Search options.  Selecting one of these options and inputting the example date will produce results that are diplayed to the left of the search filters.
+Selecting one of these options and inputting the example date will produce results that are diplayed to the left of the search filters.
 
-![filters]
+![filters](static/images/filter_search.PNG)
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
