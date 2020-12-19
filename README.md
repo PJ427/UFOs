@@ -12,9 +12,11 @@ The web page is very user-friendly.  Once navigating to the site, a user simply 
 ![site](static/images/site.PNG)
 
 Selecting one of these options and inputting the example date will produce results that are diplayed to the left of the search filters.
+
 <p align="center">
-![filters](static/images/filter_search.PNG)
+<img src="static/images/filter_search.PNG" />
 </p>
+
 ![](static/images/city_search.PNG)
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
