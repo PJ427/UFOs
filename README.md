@@ -13,9 +13,9 @@
 
 #### Selecting one of these options and inputting the example date will produce results that are diplayed to the left of the search filters.
 
-<p align="center">
-<img src="static/images/filter_search.PNG" width="150" height="300" />
-</p>
+
+<img src="static/images/filter_search.PNG" width="150" height="300" /> <img src="static/images/city_search.PNG" width="400" height="200 />
+
 
 ##### Note: You can only select one filter at a time and you must clear the previous filter.
 
