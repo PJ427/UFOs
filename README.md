@@ -7,7 +7,7 @@ We are to provide a more in-depth analysis of UFO sightings by allowing users to
 
 ## Results:
 
-The web page is very user-friendly.  Once navigating to the site, a user simply scrolls down to see **five** Filter Search options.
+The web page is very user-friendly.  Once navigating to the site, a user simply scrolls down to see **five,** Filter Search options.
 
 ![site](static/images/site.PNG)
 
@@ -19,7 +19,11 @@ Selecting one of these options and inputting the example date will produce resul
 
 ![](static/images/city_search.PNG)
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary:
 
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+The website works very well.  Typing in a filter will produce quick results that will allow the user to view the requested summary to the right of the search area.  A drawback to the site is that it only allows one filter at a time.  This could be very frustrating to the user if they wanted to narrow their choices.
+
+Future upgrades or additions to the site could be:
+
+    1. Allowing selection of more than one filter.  This would permit refining the requested data.
+    2. Clearing of previous filters automatcially.  Currently, you have to remove the filter yourself, adding code to remove the data could be extremely useful and beneficial.
