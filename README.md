@@ -13,7 +13,7 @@ The web page is very user-friendly.  Once navigating to the site, a user simply 
 
 Selecting one of these options and inputting the example date will produce results that are diplayed to the left of the search filters.
 
-![filters](static/images/filter_search.PNG)
+![filters](static/images/filter_search.PNG)     (static/images/city_search.PNG)
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
